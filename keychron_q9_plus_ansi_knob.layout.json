@@ -83,7 +83,7 @@
       "KC_DOWN"
     ],
     [
-      "LT(4,KC_TAB)",
+      "KC_TAB",
       "KC_Q",
       "KC_W",
       "KC_E",
@@ -128,7 +128,7 @@
       "KC_NO",
       "KC_RSFT",
       "KC_UP",
-      "KC_LCTL",
+      "LT(4,KC_LCTL)",
       "KC_LGUI",
       "KC_LALT",
       "LT(2,KC_BSPC)",
@@ -159,7 +159,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "RGB_TOG",
+      "KC_SLEP",
       "RGB_TOG",
       "KC_BSPC",
       "KC_DEL",
@@ -239,7 +239,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_NO",
-      "KC_F1",
+      "KC_F11",
       "KC_F2",
       "KC_F3",
       "KC_F4",
@@ -334,8 +334,8 @@
   "encoders": [
     [
       ["KC_VOLD", "KC_VOLU"],
-      ["S(KC_TAB)", "KC_TAB"],
-      ["RGB_VAD", "RGB_VAI"],
+      ["KC_VOLD", "KC_VOLU"],
+      ["KC_BRID", "KC_BRIU"],
       ["RGB_VAD", "RGB_VAI"],
       ["KC_TRNS", "KC_TRNS"]
     ]
